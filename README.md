@@ -2,6 +2,8 @@
 
 A native macOS browser for the Gemini protocol, built with SwiftUI.
 
+![Screenshot](./docs/Hero.png)
+
 ## Features
 
 - **Gemini browsing** — fetches and renders `text/gemini` as styled gemtext; other
